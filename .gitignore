@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 .venv-1/
 COHA/
-Embeddings/
+Embeddings/svd_ppmi_matrix.csv
+Embeddings/fasttext_model.bin.wv.vectors_ngrams.npy
 preprocessed_corpus.json
 preprocessed_filtered_corpus.json
