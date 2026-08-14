@@ -9,5 +9,9 @@ correlations between contemporary lexica and historical gold data. Tracing this 
 data's own limitations, partly to the limitations of static word embeddings, we argue for a larger, more robust, 
 token-based historical VAD resource going forward.
 
+# Instructions
+See main.ipynb for model-setup, execution and results.
+See visualizations.ipynb for figures found in thge paper.
+
 # Notes:
 The processed corpus and large embeddings had to be excluded due to data storage limitations. 
