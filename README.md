@@ -15,3 +15,4 @@ See visualizations.ipynb for figures found in thge paper.
 
 # Notes:
 The processed corpus and large embeddings had to be excluded due to data storage limitations. 
+The 1830's section of the COHA is not included - it does not belong to us.
