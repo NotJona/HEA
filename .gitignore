@@ -4,8 +4,5 @@ __pycache__/
 .venv-1/
 COHA/
 Embeddings/
-HistoricalVAD/
-stable_words/
-VADLexica/
 preprocessed_corpus.json
 preprocessed_filtered_corpus.json
